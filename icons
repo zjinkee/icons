@@ -59,8 +59,12 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/telegram(1).png"
     },
     {
+      "name": "Tg",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png"
+    },
+    {
       "name": "Apple",
-      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_1.png"
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_2.png"
     },
     {
       "name": "CloudMusic",
