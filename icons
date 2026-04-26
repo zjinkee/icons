@@ -1,6 +1,6 @@
 {
   "name": "策略图标",
-  "description": "更新于 2026.4.25",
+  "description": "更新于 2026.4.26",
   "icons": [
     {
       "name": "HK",
@@ -96,7 +96,7 @@
     },
     {
       "name": "ChatGPT",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/500px-ChatGPT-Logo.svg.png"
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ChatGPT.png"
     },
     {
       "name": "Reject",
